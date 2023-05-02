@@ -1,0 +1,88 @@
+Started by user [8mha:////4HsQ8oejzXyFEmClt1XKBuq6+U5Dfk+FJa+1sJXj2ZtMAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Users\vinee\.jenkins\workspace\FrameworkANT
+[TestNG] $ cmd.exe /C "C:\Softwares\apache-ant-1.10.1\bin\ant.bat -file build.xml clean compile run makexsltreports && exit %%ERRORLEVEL%%"
+Buildfile: C:\Users\vinee\workspace\TestNG\build.xml
+
+[8mha:////4L3S5ICdHirx1Ch1fE0GgDqXHduNgvd+qMM0HOR3dQ9RAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mclean:
+   [delete] Deleting directory C:\Users\vinee\workspace\TestNG\build
+
+[8mha:////4L3S5ICdHirx1Ch1fE0GgDqXHduNgvd+qMM0HOR3dQ9RAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0msetClassPath:
+
+[8mha:////4L3S5ICdHirx1Ch1fE0GgDqXHduNgvd+qMM0HOR3dQ9RAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0minit:
+
+[8mha:////4L3S5ICdHirx1Ch1fE0GgDqXHduNgvd+qMM0HOR3dQ9RAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mclean:
+
+[8mha:////4L3S5ICdHirx1Ch1fE0GgDqXHduNgvd+qMM0HOR3dQ9RAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mcompile:
+     [echo] making directory...
+    [mkdir] Created dir: C:\Users\vinee\workspace\TestNG\build
+     [echo] classpath------: C:\jars\SaxonLiaison.jar:C:\jars\saxon-8.7.jar:C:\jars\selenium-server-standalone-3.0.1.jar:C:\jars\testng.jar
+     [echo] compiling...
+    [javac] C:\Users\vinee\workspace\TestNG\build.xml:55: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 47 source files to C:\Users\vinee\workspace\TestNG\build
+    [javac] 
+    [javac]           WARNING
+    [javac] 
+    [javac] The -source switch defaults to 1.8 in JDK 1.8.
+    [javac] If you specify -target 1.5 you now must also specify -source 1.5.
+    [javac] Ant will implicitly add -source 1.5 for you.  Please change your build file.
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 1.5
+    [javac] warning: [options] source value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] target value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+    [javac] Note: C:\Users\vinee\workspace\TestNG\src\test2\DynamicLinksCount.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] 4 warnings
+
+[8mha:////4L3S5ICdHirx1Ch1fE0GgDqXHduNgvd+qMM0HOR3dQ9RAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0msetClassPath:
+
+[8mha:////4L3S5ICdHirx1Ch1fE0GgDqXHduNgvd+qMM0HOR3dQ9RAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0minit:
+
+[8mha:////4L3S5ICdHirx1Ch1fE0GgDqXHduNgvd+qMM0HOR3dQ9RAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mclean:
+   [delete] Deleting directory C:\Users\vinee\workspace\TestNG\build
+
+[8mha:////4L3S5ICdHirx1Ch1fE0GgDqXHduNgvd+qMM0HOR3dQ9RAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mcompile:
+     [echo] making directory...
+    [mkdir] Created dir: C:\Users\vinee\workspace\TestNG\build
+     [echo] classpath------: C:\jars\SaxonLiaison.jar:C:\jars\saxon-8.7.jar:C:\jars\selenium-server-standalone-3.0.1.jar:C:\jars\testng.jar
+     [echo] compiling...
+    [javac] C:\Users\vinee\workspace\TestNG\build.xml:55: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 47 source files to C:\Users\vinee\workspace\TestNG\build
+    [javac] 
+    [javac]           WARNING
+    [javac] 
+    [javac] The -source switch defaults to 1.8 in JDK 1.8.
+    [javac] If you specify -target 1.5 you now must also specify -source 1.5.
+    [javac] Ant will implicitly add -source 1.5 for you.  Please change your build file.
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 1.5
+    [javac] warning: [options] source value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] target value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+    [javac] Note: C:\Users\vinee\workspace\TestNG\src\test2\DynamicLinksCount.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] 4 warnings
+
+[8mha:////4L3S5ICdHirx1Ch1fE0GgDqXHduNgvd+qMM0HOR3dQ9RAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mrun:
+   [testng] [TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+   [testng] [TestNG] Running:
+   [testng]   C:\Users\vinee\workspace\TestNG\testng.xml
+   [testng] 
+   [testng] Starting ChromeDriver 2.29.461591 (62ebf098771772160f391d75e589dc567915b233) on port 15191
+   [testng] Only local connections are allowed.
+   [testng] Oct 02, 2017 10:21:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+   [testng] INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+   [testng] Oct 02, 2017 10:21:17 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+   [testng] INFO: Detected dialect: OSS
+   [testng] 
+   [testng] ===============================================
+   [testng] TestNG test
+   [testng] Total tests run: 1, Failures: 0, Skips: 0
+   [testng] ===============================================
+   [testng] 
+
+[8mha:////4L3S5ICdHirx1Ch1fE0GgDqXHduNgvd+qMM0HOR3dQ9RAAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mmakexsltreports:
+     [xslt] Processing C:\Users\vinee\workspace\TestNG\test-output\testng-results.xml to C:\Users\vinee\workspace\TestNG\XSLT_Reports\output\index.html
+     [xslt] Loading stylesheet C:\Users\vinee\workspace\TestNG\src\xslt\testng-results.xsl
+
+[8mha:////4HZRZqyj0i6w13ciabPKsq5I4VQ9G4lpz9v0+4ODf2XrAAAAYB+LCAAAAAAAAP9b85aBtbiIQSGjNKU4P0+vJLE4u1gvPjGvRM8xr8S/tCQ5PzfVL78ktUuDM0uMry+HiYGhoohBCqo8OT+vOD8nVc8ZQoMUMkAAI0hhAQAUXUdTXgAAAA==[0mBUILD SUCCESSFUL
+Total time: 21 seconds
+Finished: SUCCESS
