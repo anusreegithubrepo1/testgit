@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: 11.0.11 (Ubuntu)
+
+Name: feature.xml
+SHA-256-Digest: JHktoksBsKWerX90BSStd6zmFnEilWCYpDojpiPujqM=
+
